@@ -138,9 +138,9 @@ void setup(){
    
   smooth();
  
-  file= new SoundFile(this,"pop_mezcla_01.wav");
+  file= new SoundFile(this,"pop_mezcla_01_02.mp3");
   beel= new SoundFile(this,"campana_01.wav");
-  intro= new SoundFile(this,"cangrejo.wav");
+  intro= new SoundFile(this,"cangrejo_02.wav");
   ups= new SoundFile(this,"ayy.wav");
  
   tx = new Texto();
